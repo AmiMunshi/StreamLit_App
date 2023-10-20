@@ -11,7 +11,7 @@ https://blog.streamlit.io/langchain-tutorial-4-build-an-ask-the-doc-app/
 https://blog.streamlit.io/langchain-tutorial-1-build-an-llm-powered-app-in-18-lines-of-code/
 """
 
-pip install streamlit langchain openai tiktoken
+#pip install streamlit langchain openai tiktoken
 
 import streamlit as st
 from langchain.llms import OpenAI
